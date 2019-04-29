@@ -1,3 +1,9 @@
+# Copyright (c) Jupyter Development Team.
+# Distributed under the terms of the Modified BSD License.
+
+# This code has been modified from the original Jupyter source.
+# Copyright (c) European Synchrotron Radiation Facility (ESRF)
+
 ARG BASE_CONTAINER=debian:buster
 FROM $BASE_CONTAINER
 
